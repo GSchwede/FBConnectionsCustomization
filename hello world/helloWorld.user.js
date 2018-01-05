@@ -1,4 +1,4 @@
-// ==UserScript==
+co// ==UserScript==
 // @copyright    Copyright IBM Corp. 2017
 //
 // @name         helloWorld
@@ -45,7 +45,7 @@ if(typeof(dojo) != "undefined") {
             waitFor( function(){
 			// wait until the "loading..." node has been hidden
 			// indicating that we have loaded content.
-   			dojo.query("span.shareSome-title")[0].textContent="Hello World ";
+   			dojo.query("span.shareSome-title")[0].textContent="Welcome! ";
        	          },
 		  ".lotusStreamTopLoading div.loaderMain.lotusHidden");
       } catch(e) {
