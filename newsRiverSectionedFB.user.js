@@ -30,6 +30,7 @@ if (typeof(dojo) != "undefined") {
       var hashValue = window.location.hash;
 
       if (hashValue == "#myStream/imFollowing/all") {
+
         changeNewsRiverColour(240, 240, 240);
       }
       if (hashValue == "#atMentions/atMentions") {
