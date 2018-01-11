@@ -12,9 +12,6 @@
 // @include      *://*connections*.ibm.com/homepage/*
 // @include      *://apps.*.collabserv.com/homepage/*
 // @include      *://apps.*.collabserv.com/homepage/*
-// @include      *://*connections*.ibm.com/profiles/*
-// @include      *://apps.*.collabserv.com/profiles/*
-// @include      *://apps.*.collabserv.com/profiles/*
 //
 // @exclude
 //
